@@ -14,13 +14,6 @@ Este repositório serve como uma base para iniciantes entenderem a estrutura de 
 - Boas práticas com código limpo
 
 
----
-
-## 🚀 Acesse o site
-
-Você pode visualizar o projeto online pelo **GitHub Pages**:
-
-🔗 [Clique aqui para acessar meu GitHub Pages](https://nickmclare.github.io/curso_html/)
 
 ---
 
