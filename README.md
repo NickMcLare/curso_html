@@ -20,7 +20,7 @@ Este repositório serve como uma base para iniciantes entenderem a estrutura de 
 
 Você pode visualizar o projeto online pelo **GitHub Pages**:
 
-🔗 [Clique aqui para acessar](https://nickmclare.github.io/curso_html/)
+🔗 [Clique aqui para acessar meu GitHub Pages](https://nickmclare.github.io/curso_html/)
 
 ---
 
@@ -34,9 +34,6 @@ Você pode visualizar o projeto online pelo **GitHub Pages**:
 
 ## ✍️ Autor
 
-Feito com 💙 por [Seu Nome](https://github.com/NickMcLare)
+Feito com 💙 por [Nicholas Santana de Sousa](https://github.com/NickMcLare)
 
----
-
-## 📸 Screenshot (opcional)
 
