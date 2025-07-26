@@ -13,7 +13,14 @@ Este repositório serve como uma base para iniciantes entenderem a estrutura de 
 - Organização de pastas
 - Boas práticas com código limpo
 
+---
 
+
+## 🚀 Acesse o site
+
+Você pode visualizar o projeto online pelo **GitHub Pages**:
+
+🔗 [Clique aqui para acessar](https://nickmclare.github.io/projeto-android/)
 
 ---
 
