@@ -34,6 +34,6 @@ Você pode visualizar o projeto online pelo **GitHub Pages**:
 
 ## ✍️ Autor
 
-Feito com 💙 por [Nicholas Santana de Sousa](https://github.com/NickMcLare)
+Feito com 💙 por Nicholas Santana de Sousa
 
 
