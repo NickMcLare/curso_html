@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mídias em HTML</title>
+</head>
+<body>
+    <h1>Imagem dinâmica</h1>
+        <p>Tente abrir esse site em diferentes dispositivos</p>
+
+        <picture>
+            <source media="(max-width: 750px)" srcset="imagens/small_300px.png" type="image/png">
+            <source media="(max-width: 1050px)" srcset="imagens/medium_700px.png" type="image/png">
+            <img src="imagens/large_1000px.png" alt="Imagem flexível">
+        </picture>
+
+        <h1>reproduzindo audios</h1>
+        <audio preload="metadata" autoplay controls >
+            <source src="/html_css/midia/the-best-jazz-club-in-new-orleans-164472.mp3" type="audio/mpeg">
+        </audio>
+
+        <h1>Inserindo videos hospedados localmente</h1>
+        <p>Esta sendo hospedado no meu proprio servidor</p>
+        <video poster="/html_css/imagens/urso.jpg" src="/html_css/midia/13183038_1920_1080_24fps.mp4" width="500" controls></video>
+        <!--Sempre bom, quando estiver colocando videos em um site, colocar todos os tipos disponiveis. Para caso o navegador do usuario não for compativel com o selecionado
+        poder ter a opção de carregar aquele que é compativel-->
+
+        <h1>Inserindo videos do Youtube</h1>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/tZjcpNi4cWw?si=kq69NIEwJftMVbqp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+</html>

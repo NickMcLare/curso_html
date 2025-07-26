@@ -1,0 +1,103 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Kaushan+Script&display=swap');
+
+*{ /* Configurações globais do CSS*/
+    font-family: 'work sans', Arial, Helvetica, sans-serif;
+    /*height: 100%;*/
+    }
+body{
+    background-image: linear-gradient(to right, #3198e2, #6d59c0, #593590, #e33f5f, #fdd579);
+    font-size: 1em;
+    margin: 0px;
+    }
+p{
+    text-align: justify;
+    text-indent: 10px;
+}
+p#HTML_text{
+    font-family: Dancing Script;
+    font-size: 1.21em;
+    
+}
+p#CSS_text{
+    font-family: Dancing Script;
+    font-size: 1.21em;
+}
+main{
+    background-color: rgb(255, 255, 255);
+    width: 800px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px black;
+    text-align: justify;
+}
+h1{
+    color: #f39209;
+    background-color: rgba(128, 0, 128, 0.664);
+    text-align: center;
+    text-shadow: 1px 1px 2px rgba(129, 5, 5, 0.822);
+    font-weight: bolder; /* lighter - normal - bold - bolder*/
+
+    /* font-style -> font-weight -> font-size -> font-family */
+}
+h2{
+    color: #125189;
+    font-weight: bolder;
+}
+
+h2#HTML{
+    color: rgba(49, 159, 163, 0.719);
+    
+}
+h2#CSS{
+    color: #e33f5f;
+}
+
+.cozinha{
+    color: #3fcae3;
+}
+.cozinha_text{
+    font-family: Dancing Script;
+    font-size: 1.21em;
+    font-style: italic;
+}
+a{
+    color: green;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:visited{
+    color: red;
+}
+a:hover{
+    text-decoration: underline;
+    color: black;
+}
+a:active{
+    color: #125189;
+}
+a::after{
+    content: ' [link]';
+    text-decoration: none;
+    font-weight: normal;
+    color: darkgray;
+}
+img{
+    margin: auto;
+    display: flex;
+}
+
+footer{
+    background-color: black;
+    color: aliceblue;
+    padding: 2px;
+    margin: 0px;
+    height: auto;
+}
+
+footer > p{
+    margin: 0px;
+    text-align: center;
+}
+
