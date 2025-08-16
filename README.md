@@ -20,7 +20,8 @@ Este repositório serve como uma base para iniciantes entenderem a estrutura de 
 
 Você pode visualizar o projeto online pelo **GitHub Pages**:
 
-🔗 [Clique aqui para acessar](https://nickmclare.github.io/projeto-android/)
+🔗 [Clique aqui para acessar o Projeto Android](https://nickmclare.github.io/projeto-android/)
+🔗 [Clique aqui para acessar o Projeto Cordel](https://nickmclare.github.io/projeto-cordel/)
 
 ---
 
